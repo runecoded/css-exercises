@@ -8,12 +8,11 @@
     font-size: 36px;
 }
 
-.cooler {
+.adjust-font-size {
     font-size: 24px;
 }
 
 #div_2 {
     background-color: hsl(120, 36%, 93%);
-    font-size: 24px;
     font-weight: bold;
 }
